@@ -1,0 +1,90 @@
+body {
+	border-top: #f90 5px solid;
+}
+
+#container{
+
+}
+
+#header{
+	
+}
+
+#logo {
+	height: 60px;
+}
+
+#footer{
+
+}
+
+#content{
+
+}
+
+.breadcrumb > li >a{
+	color:#f98408;
+	font-weight: bold;
+	font-size: 17px;
+}
+.breadcrumb > strong{
+	color:#f98408;
+	font-weight: bold;
+	font-size: 17px;
+}
+#footer {
+    background: none repeat scroll 0px 0px rgb(112, 112, 112);
+    border-bottom: 10px solid rgb(70, 70, 70);
+    color: rgb(204, 204, 204);
+    padding: 10px 0px;
+}
+#footer .footer-logo {
+    float: left;
+    margin-top: 28px;
+}
+#footer .footer-sologan {
+    float: left;
+    height: 100px;
+    line-height: 100px;
+}
+#footer .footer-contact {
+    margin-top: 10px;
+    float: right;
+    width: 445px;
+}
+#footer .light-text {
+    color: rgb(221, 221, 221);
+    font-weight: bold;
+}
+#footer .footer-contact ul.footer-contact-info {
+    margin: 0px;
+}
+
+
+.chitiet-anhbia{
+    text-align: right;
+}
+.chitiet-ten{
+    color: #f00;
+    margin-bottom: 0;
+}
+.chitiet-name{
+    display: block;
+}
+.chitiet-more label {
+    float:left;
+    clear: both;
+}
+
+.chitiet-more span {
+    float:left;
+    margin-left: 12px;
+}
+
+.chitiet-more {
+    clear: both;
+}
+.chitiet-sotap{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
